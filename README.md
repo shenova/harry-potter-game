@@ -35,14 +35,14 @@ python test_quest_functions.py
 
 ## Project Summary
 
-Goal:
+### Goal:
 Build an interactive, text-based game using Python that applies core programming concepts taught in COGS 18.
 
-Approach:
+### Approach:
 The game logic is modularized into helper functions, tested for correctness, and executed through a Jupyter Notebook to demonstrate gameplay flow.
 
-Results:
+### Results:
 Successfully created a functional Python game with reusable functions and test coverage.
 
-#Author
+### Author
 Shenova Davis
