@@ -1,6 +1,6 @@
-# COGS 18 Final Project
+# Harry Potter Game Project
 
-This repository contains my final project for **COGS 18 (Introduction to Python)**.
+This repository contains my final project for **COGS 18 (Introduction to Python)** which is a Harry Potter inspired game.
 
 ---
 
